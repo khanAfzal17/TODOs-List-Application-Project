@@ -1,2 +1,2 @@
-# TODOs-List-Project
-A TODO's list application where we can add task's and delete later when we don't needed. also the data stored in JSON
+# TODOs-List-web-Application
+A TODO's list application where we can add task's for basic and heavy routine's speacially for organizing time and schedule for productivity and can delete later when we don't needed. with the help of JSON it store the data and whenever we needed.it has multiple funtions like we can add task one by one and can also delete one by one or we can clear all by one clear button with a given warning alert.
